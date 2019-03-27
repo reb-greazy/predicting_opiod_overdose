@@ -1,0 +1,23 @@
+How to deploy models in clinical decision support systems.
+
+Clinical Decision Support Tools:
+CDS provides clinicians, staff, patients, or other individuals with knowledge and person-specific information, intelligently iltered or presented at appropriate times, to enhance health and healthcare, CDS encompasses a variety of tools to enhance decision-making in the clinical workflow. 
+- popup messages, passive messages, snapshot views, reporting tools, orders
+
+Data visualization techniques, outcomes analysis, metrics, and continuous improvement
+
+Edward Tufte - cognitive science theory - science of how the human perceives and processes information
+
+Deployment: Process, Process, Process 
+Organizational and CLinical Decision Support 
+-must have a clinician champion
+-support from impacted user group, align with strategy
+-who is going to do data entry, view, act on clinical decision support tool?
+-check with your ehr vendor to see if the tool already exsists
+
+IT change management 
+- involve IT early and often
+- governance and approval
+- testing
+- workflow
+- implementation
